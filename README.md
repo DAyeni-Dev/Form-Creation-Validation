@@ -12,7 +12,7 @@ This form is part of a **frontend development assignment** aimed at strengthenin
 - Building user-friendly UI experiences
 - Writing readable and maintainable frontend code
 
-The project simulates the process of registering a new user on a website, validating user inputs **before** the form is submitted — preventing incorrect or insecure data from being sent.
+The project simulates the process of registering a new user on a website, validating user inputs **before** the form is submitted, preventing incorrect or insecure data from being sent.
 
 ##  Features & Accomplishments
 
