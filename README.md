@@ -1,5 +1,5 @@
 ## Form-Creation-Validation
-# User Registration Form – Interactive Frontend Project
+# User Registration Form; Interactive Frontend Project
 
 This project is a **responsive user registration form** designed using HTML, CSS, and vanilla JavaScript. It showcases **real-time form validation** and provides users with immediate feedback during input, making the sign-up experience more intuitive and secure.
 
